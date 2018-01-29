@@ -6,11 +6,11 @@ spring:
             first:
                 url: jdbc:mysql://localhost:3306/aganxueche?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
                 username: root
-                password: 
+                password: Swy0118.
             second:
                 url: jdbc:mysql://localhost:3306/aganxueche?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
                 username: root
-                password: 
+                password: Swy0118.
             initial-size: 10
             max-active: 100
             min-idle: 10
