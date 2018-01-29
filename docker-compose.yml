@@ -1,6 +1,6 @@
 version: '2'
 services:
-  renren-fastplus:
+  aganxueche:
     image: renren/fastplus
     ports:
       - "8080:8080"
