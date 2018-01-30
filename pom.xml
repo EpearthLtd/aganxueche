@@ -219,7 +219,7 @@
 				<!--</execution>-->
 				<!--</executions>-->
 				<configuration>
-					<imageName>renren/fastplus</imageName>
+					<imageName>aganxueche</imageName>
 					<dockerDirectory>${project.basedir}</dockerDirectory>
 					<resources>
 						<resource>
