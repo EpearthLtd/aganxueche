@@ -1,7 +1,7 @@
 version: '2'
 services:
   aganxueche:
-    image: renren/fastplus
+    image: aganxueche
     ports:
       - "8080:8080"
     environment:
